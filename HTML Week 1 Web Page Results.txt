@@ -1,0 +1,31 @@
+Welcome to My Basic Web Page
+Koena Kgomo Web page
+Home
+About
+Contact
+Home Section
+My name is Koena Kgomo, a dedicated professional with a strong background in financial services. I began my career as a client service champion in 2018. I was later promoted to service consultant at the Woodmead branch and now I'm based in Mall of Africa. I have been building the skills and experience that drive my aspiration to grow into a business analyst who helps companies achieve meaningful results
+
+About Me
+A brief introduction about me.
+
+Name: Koena Kgomo
+Current Position: Service Consultant
+Company: Capitec Bank Ltd
+Branch: Mall of Africa, Waterfall
+Skills: Client service, Communication, Persuasive and influencing
+Qualifications: Bachelor of Commerce in Economics
+Highest Qualification Completed: Bachelor of Commerce Honours in Transport Economics
+Future Position: Business Analyst
+Skills: Problem solving, Analysing, Attention to details
+Koena Kgomo profile picture
+You can contact me on
+Email: koena@example.com
+
+Phone: +27618308010
+
+LinkedIn: https://linkedin.com/in/koena-kgomo-744635371
+
+GitHub: https://github.com/koenasanchia-tech
+
+© 2025 Koena Kgomo

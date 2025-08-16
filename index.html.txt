@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Koena Kgomo Web Page</title>
+</head>
+
+<body>
+    <header>
+        <h1>Welcome to My Basic Web Page</h1>
+        <h> Koena Kgomo Web page
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <h2>Home Section</h2>
+        <p>My name is Koena Kgomo, a dedicated professional with a strong background in financial services. I began my career as a client service champion in 2018. I was later promoted to service consultant at the Woodmead branch and now I'm based in Mall of Africa. I have been building the skills and experience that drive my aspiration to grow into a business analyst who helps companies achieve meaningful results</p>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>A brief introduction about me.</p>
+        <ul>
+            <li>Name: Koena Kgomo</li>
+            <li>Current Position: Service Consultant</li>
+            <li>Company: Capitec Bank Ltd</li>
+            <li> Branch: Mall of Africa, Waterfall</li>
+            <li>Skills: Client service, Communication, Persuasive and
+            influencing</li>
+            <li>Qualifications: Bachelor of Commerce in Economics
+            <li> Highest Qualification Completed: Bachelor of Commerce Honours in Transport Economics
+            <li> Future Position: Business Analyst</li>
+            <li>Skills: Problem solving, Analysing, Attention to details
+        </ul>
+        <img src="image.jpg" alt="Koena Kgomo profile picture" width="200">
+    </section>
+
+    <section id="contact">
+        <h2>You can contact me on</h2>
+        <p>Email: <a href="mailto:koena@example.com">koena@example.com</a></p>
+        <p>Phone: <a href="tel:+27618308010">+27618308010</a></p>
+         <p>LinkedIn: <a href="https://www.linkedin.com/in/koena-kgomo-744635371" target="_blank">https://linkedin.com/in/koena-kgomo-744635371</a></p>
+</div>
+        <p>GitHub: <a href="https://github.com/koenasanchia-tech" target="_blank">https://github.com/koenasanchia-tech</a></p></div>
+
+    <footer>
+        <p>© 2025 Koena Kgomo</p>
+    </footer>
+
+</body>
+
+</html>
+
+
